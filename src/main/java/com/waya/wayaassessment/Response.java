@@ -14,7 +14,7 @@ public class Response {
     String customerName;
     String accountNumber;
     BigDecimal amountDeposited;
-    String currency;
+    Currency currency;
     TransferType transferType;
 
 }
